@@ -1,2 +1,2 @@
-# studies
-For DevOps Studies
+# DevOps repozitorijs
+Viktorija Matjuka DevOps repozitorijs pamati iesācējiem
