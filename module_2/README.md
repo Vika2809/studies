@@ -10,7 +10,6 @@
 -+++ b/module_2/README.md
 -@@ -1,3 +0,0 @@
 -# DevOps Repozitorijs
--
 -## _Viktorija Matjuka_
 
 16. izmainas parabauditas var veikt ar git log vai nu apskatit vinas github desktop
